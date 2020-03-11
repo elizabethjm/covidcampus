@@ -26,7 +26,8 @@ Collaborative Digital Student Projects
 20-30 student course, Intermediate Level
 (ex. Wellesley ANTH 262 Archaeology of Human Sacrifice)</b>
 
-In class 75 minute format:
+In class 75 minute format
+
 (20 minutes) Students come having read an article/chapter about session topic. I lecture on background of the session topic with illustrated slides, which they can see as shared google slides and refer back to later.
 (30 minutes) They break into groups of 3-4 students to evaluate primary source material shared with them as a PDF, and they do a ‘deep dive’ on one individual case study. They discuss what the primary evidence shows them and draw conclusions/interpret the evidence. I walk around and check in with each group multiple times.
 (25 minutes) We come together as a class and I go around calling on each small group and they report back about their findings (often one group representative speaks). We all discuss how the individual case studies come together as a whole to tell us about the session topic.
@@ -77,7 +78,8 @@ Over the next few days, students should return and comment on the new discussion
 <b>Collaborative Digital Student Projects
 
 Co-Curation on Storymaps</b>
-Example from Sara Cooper, ℅ 2020: https://storymaps.arcgis.com/stories/5421952371854ae9b5ecf9db4c3045bd (Sara made all the 3D models of pyramids that you see in this project as part of ANTH 246 Glyphs to Bytes, but students can use already available 3D models too)
+Example from Sara Cooper, ℅ 2020
+https://storymaps.arcgis.com/stories/5421952371854ae9b5ecf9db4c3045bd (Sara made all the 3D models of pyramids that you see in this project as part of ANTH 246 Glyphs to Bytes, but students can use already available 3D models too)
 
 Online platforms
 
