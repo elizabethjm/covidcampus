@@ -6,10 +6,10 @@ Online Lesson Plan Ideas
 These lesson plans for online learning are adapted from Anthropology, Archaeology, Egyptology, and Digital Humanities courses I have taught at Wellesley College and UC Berkeley. FYI: my area of expertise is Sudanese and Egyptian Archaeology, as well as Museum Studies, Visual Digital Humanities, and Digital Archives. I’m posting these to help me think through how I will finish out the Spring 2020 semester at Wellesley College and as a resource for anyone in a similar situation. This is a brain-dump as I attempt to transition to online teaching next week, so please ignore any typos or run on sentences!
 
 <b>TOC:
--Wrangling Tech for Class Formats
-	-Intermediate Course
-	-Advanced Seminar
--Collaborative Digital Student Projects
+Wrangling Tech for Class Formats
+	Intermediate Course
+	Advanced Seminar
+Collaborative Digital Student Projects
 -Co-Curation on Storymaps
 -Creating an Educational Game on ARIS Field Day
 -Learning through Evaluating Online Resources
