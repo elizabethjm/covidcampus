@@ -5,8 +5,9 @@ Online Lesson Plan Ideas
 
 These lesson plans for online learning are adapted from Anthropology, Archaeology, Egyptology, and Digital Humanities courses I have taught at Wellesley College and UC Berkeley. FYI: my area of expertise is Sudanese and Egyptian Archaeology, as well as Museum Studies, Visual Digital Humanities, and Digital Archives. I’m posting these to help me think through how I will finish out the Spring 2020 semester at Wellesley College and as a resource for anyone in a similar situation. This is a brain-dump as I attempt to transition to online teaching next week, so please ignore any typos or run on sentences!
 
-<b>TOC
--Wrangling Tech for Class Formats
+<b>TOC</b>
+	
+<b>-Wrangling Tech for Class Formats
 	-Intermediate Course
 	-Advanced Seminar
 Collaborative Digital Student Projects
@@ -30,7 +31,8 @@ In class 75 minute format:
 (30 minutes) They break into groups of 3-4 students to evaluate primary source material shared with them as a PDF, and they do a ‘deep dive’ on one individual case study. They discuss what the primary evidence shows them and draw conclusions/interpret the evidence. I walk around and check in with each group multiple times.
 (25 minutes) We come together as a class and I go around calling on each small group and they report back about their findings (often one group representative speaks). We all discuss how the individual case studies come together as a whole to tell us about the session topic.
 
-Proposed synchronous online format:
+Proposed synchronous online format
+
 To begin, I’m going to attempt to hold the class meeting during the regularly scheduled time and we will reassess after the first week. Part of this is to provide a continuity of routine and schedule for students (and me!) who are isolated, but if this is found to do more harm than good then I will move to asynchronous models. I have the slides already prepped, so I will attempt to record the lectures as far ahead of time as possible in case I get sick and then the resources will be there for students to complete the course.
 (5-10 minutes) I give students updates from the College and take questions from them about the developing situation.
 (15 minutes) Students read the article/chapter about session topic. I post or stream a 15 minute lecture on the background with illustrated slides. If live, they can use side chat or “raise hand” feature to ask questions. This lecture is also still posted on their class website as a shared and *editable* Google Slide presentation.
@@ -38,12 +40,14 @@ To begin, I’m going to attempt to hold the class meeting during the regularly 
 (5 minutes) Students familiarize themselves with the slides that the other groups have made.
 (20 minutes) We come together as a class and I go around calling on each small group and they report back about their findings as we all look at the new slides, one group representative unmutes and speaks. I lead the discussion on how the individual case studies come together as a whole to tell us about the session topic, students summarize their thoughts in a one paragraph blog post on the class google group.
 
-Proposed asynchronous online format:
+Proposed asynchronous online format
+
 Students do reading and watch my posted lecture by the day of the scheduled class
 Working with their assigned groups (which they self selected when still in the classroom), they have the next 48 hours to do their case study and make a summary slide together remotely (if they are able to speak live, great, if not, then as each student comes in they can add/change with their thoughts and especially do this using the Add Comment feature in Google slides)
 By the beginning of the next class session, each student posts a paragraph summarizing their thoughts on the case study comparisons and asking one question they have about the topic. Then by the end of the day of the scheduled class they respond to at least one other student’s blog post and question.
 
 <b>Case Study Example: Sacrifice at Kerma, Sudan</b>
+
 Students read two articles: Judd, Margaret and Joel Irish. 2009. “Dying to serve: the mass burials at Kerma,” in Antiquity, v. 83, n. 321, pp. 709-722. And Minor, E. 2018. “One More for the Road: Beer, Sacrifice and Commemoration in Ancient Nubian Burials of the Classic Kerma Period,” in Current Research in Egyptology 2017: proceedings of the Eighteenth Annual Symposium: Università degli Studi di Napoli “L’Orientale”, Naples, Italy, 3-6 May 2017. Archaeopress: Oxford.
 
 Students meet with their small groups and go to the primary site reports from Kerma (Burials & Objects) and choose one sacrificed individual from Sacrificial Corridor KX Hall A (Burials volume pages 279-315) and one elite Subsidiary Burial from Tumulus KX (Burials volume 315-372).
@@ -54,15 +58,18 @@ Each student posts a paragraph summarizing their thoughts on the case study comp
 <b>15-20 student course, Advanced Level Seminar</b>
 (ex. Wellesley ANTH 319 Nations, Politics, and the Use of the Remote Past)
 
-In class 150 minute format:
+In class 150 minute format
+
 Students proposed discussion topics earlier in the semester and they are in charge of assigning readings (in consultation with me) for their session topic. They come prepared with a set of slides to present information from those readings and to facilitate a discussion for 45-60 minutes. Two students go per class meeting.
 
-Proposed synchronous online format:
+Proposed synchronous online format
+
 To begin, I’m going to attempt to hold the class meeting during the regularly scheduled time and we will reassess after the first week. Part of this is to provide a continuity of routine and schedule for students (and me!) who are isolated, but if this is found to do more harm than good then I will move to asynchronous models. I will attempt to get the Google Slides and Docs set up and shared for students to post and discuss lectures as far ahead of time as possible, in case I get sick and then the resources will be there for students to complete the course.
 Students will come to a Zoom meeting with the readings completed and at least one discussion question or comment about each of them prepared ahead of time. Student discussion leaders will have already shared their slides in Google Slides and they will screenshare the presentation. They will pause on discussion question slides for their cohort to unmute and contribute, or to comment using text chat. We will reassess after the first session (which I will lead as the Instructor, already happened to be scheduled that way as their midterm was originally due the day of our first remote meeting).
 Depending on how the online discussions go, I may also implement the use of the course blog, where each student posts a paragraph summary of one or more of the readings and then a discussion question for other students to respond to.
 
-Proposed asynchronous online format:
+Proposed asynchronous online format
+
 On the day of the original class meeting, Student Discussion Leaders will post their Google Slides and these will include specific discussion questions that are clearly marked. They will also post either an audio or video commentary going through their slides.
 Within 24 hours, the other students should write a long format blog post that addresses the specific discussion questions, and ALSO proposes questions of their own, at least one for each source they read.
 Over the next few days, students should return and comment on the new discussion questions for at least two of their fellow classmates.
@@ -72,9 +79,11 @@ Over the next few days, students should return and comment on the new discussion
 Co-Curation on Storymaps</b>
 Example from Sara Cooper, ℅ 2020: https://storymaps.arcgis.com/stories/5421952371854ae9b5ecf9db4c3045bd (Sara made all the 3D models of pyramids that you see in this project as part of ANTH 246 Glyphs to Bytes, but students can use already available 3D models too)
 
-Online platforms:
-Storymaps: https://storymaps.arcgis.com/ - Dynamic website builder that can pull in GIS maps (either in “lite” version or directly from main ArcGIS maps), but is also friendly to use for general website building and embedding videos and 3D models. Can set sharing so that multiple users can edit the same StoryMap so students can collaborate on curation/creation.
+Online platforms
+
+Storymaps https://storymaps.arcgis.com/ - Dynamic website builder that can pull in GIS maps (either in “lite” version or directly from main ArcGIS maps), but is also friendly to use for general website building and embedding videos and 3D models. Can set sharing so that multiple users can edit the same StoryMap so students can collaborate on curation/creation.
 Sketchfab Cultural Heritage: sketchfab.com - Museums, institutions, and users post 3D models of Cultural Heritage sites and material culture with at least some contextual information. Students can embed these models into their curated StoryMap using the plus sign to add a section, selecting the </> embed option, and then copying and pasting the iframe embed code from the sketchfab model. Even if the model is not downloadable, it can be embedded.
+
 Museum online databases!
 Hearst Museum of Anthropology: https://portal.hearstmuseum.berkeley.edu/
 Met Museum Public Domain Images: https://www.metmuseum.org/art/collection/search#!?searchField=All&showOnly=openAccess&sortBy=Relevance&offset=0&pageSize=0
@@ -99,7 +108,7 @@ Everyone puts in the section and text and images they are responsible for
 Publish and share!
 Creating an Educational Game on ARIS Field Day
 
-Example for Ancient Egyptian Literature: The Shipwrecked Sailor Follow link for PDF of slides with instructions: https://drive.google.com/file/d/10xFA1Yadd2PYhb2YzpGENc5g93Wlezpq/view?usp=sharing
+Example for Ancient Egyptian Literature, The Shipwrecked Sailor Follow link for PDF of slides with instructions: https://drive.google.com/file/d/10xFA1Yadd2PYhb2YzpGENc5g93Wlezpq/view?usp=sharing
 
 
 <b>Learning through Evaluating Online Resources
