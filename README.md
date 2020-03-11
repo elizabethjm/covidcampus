@@ -1,11 +1,11 @@
 # covidcampus
 Online Lesson Plan Ideas
 
-Elizabeth Minor - Anthropology - Wellesley College - eminor@wellesley.edu
+<b>Elizabeth Minor - Anthropology - Wellesley College - eminor@wellesley.edu</b>
 
 These lesson plans for online learning are adapted from Anthropology, Archaeology, Egyptology, and Digital Humanities courses I have taught at Wellesley College and UC Berkeley. FYI: my area of expertise is Sudanese and Egyptian Archaeology, as well as Museum Studies, Visual Digital Humanities, and Digital Archives. I’m posting these to help me think through how I will finish out the Spring 2020 semester at Wellesley College and as a resource for anyone in a similar situation. This is a brain-dump as I attempt to transition to online teaching next week, so please ignore any typos or run on sentences!
 
-TOC:
+<b>TOC:
 -Wrangling Tech for Class Formats
 	-Intermediate Course
 	-Advanced Seminar
@@ -15,14 +15,14 @@ TOC:
 -Learning through Evaluating Online Resources
 	-The Best and the Worst of the Internet
 	-Comparing 3D visualizations and text descriptions
--Citizen Science for Class Activities or the Super Bored
+-Citizen Science for Class Activities or the Super Bored</b>
 	
 *Please note that many of the detailed lesson plans that I present here are not completely accessible for students with visual impairments, due to the nature of interaction with 3D images in particular, but I have worked with students with visual impairments to go through the exercises successfully, especially using screen contrast enhancement and screen zooming, but that has been a one-on-one conversation with them and also after meeting with disability services. For instructors who are moving to online courses quickly due to coronavirus campus closures, and who know that you have students who need visual access accommodations, I suggest that you provide an alternate assignment as well or speak with your institution’s disability services. Likewise, some exercises need a fast and reliable internet connection, which students may not have access too, although they should be fine on tablets or other devices without especially fast processors. Some online platforms will need an updated browser/OS (especially Sketchfab), but I am able to run them with OS X El Capitan 10.11.6 (yes I know I really need to update my work laptop!).
 
 
-Wrangling Tech for Class Formats
+<b>Wrangling Tech for Class Formats
 
-<b>20-30 student course, Intermediate Level
+20-30 student course, Intermediate Level
 (ex. Wellesley ANTH 262 Archaeology of Human Sacrifice)</b>
 
 In class 75 minute format:
@@ -43,26 +43,15 @@ Students do reading and watch my posted lecture by the day of the scheduled clas
 Working with their assigned groups (which they self selected when still in the classroom), they have the next 48 hours to do their case study and make a summary slide together remotely (if they are able to speak live, great, if not, then as each student comes in they can add/change with their thoughts and especially do this using the Add Comment feature in Google slides)
 By the beginning of the next class session, each student posts a paragraph summarizing their thoughts on the case study comparisons and asking one question they have about the topic. Then by the end of the day of the scheduled class they respond to at least one other student’s blog post and question.
 
-Case Study Example: Sacrifice at Kerma, Sudan
+<b>Case Study Example: Sacrifice at Kerma, Sudan</b>
 Students read two articles: Judd, Margaret and Joel Irish. 2009. “Dying to serve: the mass burials at Kerma,” in Antiquity, v. 83, n. 321, pp. 709-722. And Minor, E. 2018. “One More for the Road: Beer, Sacrifice and Commemoration in Ancient Nubian Burials of the Classic Kerma Period,” in Current Research in Egyptology 2017: proceedings of the Eighteenth Annual Symposium: Università degli Studi di Napoli “L’Orientale”, Naples, Italy, 3-6 May 2017. Archaeopress: Oxford.
-
-
-
-
-
-
-
 
 Students meet with their small groups and go to the primary site reports from Kerma (Burials & Objects) and choose one sacrificed individual from Sacrificial Corridor KX Hall A (Burials volume pages 279-315) and one elite Subsidiary Burial from Tumulus KX (Burials volume 315-372).
 In their small groups, they investigate the placement of the individual body, what personal adornment they had, what other objects are near/in the grave, how that compares to other sacrificed individuals, and what that may tell us about the identity and social role of the people included in sacrifice for the ancient Kerman king.
 The small groups make a Google Slide with a screenshot (or more) of relevant plans or finds, a bullet point list addressing the aspects above.
 Each student posts a paragraph summarizing their thoughts on the case study comparisons and asking one question they have about the topic. Then by the end of the day of the scheduled class they respond to at least one other student’s blog post and question.
 
-
-
-
-
-15-20 student course, Advanced Level Seminar
+<b>15-20 student course, Advanced Level Seminar</b>
 (ex. Wellesley ANTH 319 Nations, Politics, and the Use of the Remote Past)
 
 In class 150 minute format:
@@ -78,13 +67,9 @@ On the day of the original class meeting, Student Discussion Leaders will post t
 Within 24 hours, the other students should write a long format blog post that addresses the specific discussion questions, and ALSO proposes questions of their own, at least one for each source they read.
 Over the next few days, students should return and comment on the new discussion questions for at least two of their fellow classmates.
 
+<b>Collaborative Digital Student Projects
 
-
-
-
-Collaborative Digital Student Projects
-
-Co-Curation on Storymaps
+Co-Curation on Storymaps</b>
 Example from Sara Cooper, ℅ 2020: https://storymaps.arcgis.com/stories/5421952371854ae9b5ecf9db4c3045bd (Sara made all the 3D models of pyramids that you see in this project as part of ANTH 246 Glyphs to Bytes, but students can use already available 3D models too)
 
 Online platforms:
@@ -95,7 +80,7 @@ Hearst Museum of Anthropology: https://portal.hearstmuseum.berkeley.edu/
 Met Museum Public Domain Images: https://www.metmuseum.org/art/collection/search#!?searchField=All&showOnly=openAccess&sortBy=Relevance&offset=0&pageSize=0
 Smithsonian Public Domain Images: https://www.si.edu/openaccess
 
-Lesson plan example: Gender, Museum Collecting, and Knowledge Creation
+<b>Lesson plan example: Gender, Museum Collecting, and Knowledge Creation</b>
 
 Have students read Evans-Pritchard, E. E. (1951). Kinship and Marriage among the Nuer. Oxford: Clarendon Press, selections available to Wellesley users and Malinowski, Bronislaw (1929). The Sexual Life of Savages in North Western Melanesia. London: Routledge and Kegan Paul, Pages 1-27
 Look through the Trobriand Island objects collected by Malinowski here
@@ -114,15 +99,15 @@ Everyone puts in the section and text and images they are responsible for
 Publish and share!
 Creating an Educational Game on ARIS Field Day
 
-Example for Ancient Egyptian Literature: The Shipwrecked Sailor Follow link for PDF of slides with instructions
+Example for Ancient Egyptian Literature: The Shipwrecked Sailor Follow link for PDF of slides with instructions: https://drive.google.com/file/d/10xFA1Yadd2PYhb2YzpGENc5g93Wlezpq/view?usp=sharing
 
 
-Learning through Evaluating Online Resources
+<b>Learning through Evaluating Online Resources
 
-The Best and the Worst of the Internet
+The Best and the Worst of the Internet</b>
 In class - Think of a topic [about ancient Egypt/cultural heritage/archaeology/fill in the blank] and look for information about it online. Find the *worst* resource you can (that is still "safe for work"!), then find the *best* resource that you can. Work in a small group to create a Google Doc that presents the worst and best examples and why you chose them. Then draft a one-page form that you could use to assess any scholarly digital resources and fill it out for your two example websites.
 
-Comparing 3D visualizations and text descriptions (ANTH 246 Online Resource Assignment 2)
+<b>Comparing 3D visualizations and text descriptions</b> (ANTH 246 Online Resource Assignment 2)
 
 Funerary Practices of the Ancient Egyptian Pyramid Age Assignment
 Online Resource: Giza Archives Project: http://giza.fas.harvard.edu/
@@ -134,9 +119,9 @@ Then use the advanced search (http://giza.fas.harvard.edu/search/) to search for
 Post your responses on the class blog, then comment on at least two other classmates’ posts.
 
 
-Citizen Science for Class Activities or the Super Bored
+<b>Citizen Science for Class Activities or the Super Bored</b>
 
 Zooniverse.org Has Cultural Heritage, Biology, Astronomy, Literature projects where students can contribute to active research projects by processing data. 
 My favorite: Manatee Chat!
 
-Good luck everyone and I’d love to hear back about what was useful and how you modified it!
+<b>Good luck everyone and I’d love to hear back about what was useful and how you modified it!</b>
