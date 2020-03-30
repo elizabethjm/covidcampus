@@ -122,7 +122,7 @@ In class - Think of a topic [about ancient Egypt/cultural heritage/archaeology/f
 
 Funerary Practices of the Ancient Egyptian Pyramid Age Assignment
 Online Resource: Giza Archives Project: http://giza.fas.harvard.edu/
-First go to the Giza 3D tab and go into the 3D model of one of the main Giza structures. Walk through it as you read over the Bard textbook’s description of the structure. How does the experience of standing in the reconstruction help or hinder your understanding of the textbook description?
+First go to the Giza 3D tab and go into the 3D model of one of the main Giza structures. Walk through it as you read over the Bard textbook’s (https://ebookcentral.proquest.com/lib/well/detail.action?docID=1895714) description of the structure. How does the experience of standing in the reconstruction help or hinder your understanding of the textbook description?
 Then use the advanced search (http://giza.fas.harvard.edu/search/) to search for information about one of these tombs (G 1152, G 1201, G 1203, G 1206 or G 1214). 
 1) Who was buried in the tomb? What do we know about them from the texts found on their tomb walls or funerary objects?
 2) What objects were found in the tomb? Is there a find that stands out to you from the others? Describe it and where it was originally placed. What do we learn about the deceased’s life from this object?
